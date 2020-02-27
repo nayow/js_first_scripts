@@ -2,6 +2,6 @@
 
 Simply edit the "script" file number in index.html and open it in your browser.
 
-## Team  :heart:
+## Team
 
-Jonas from Strasbourg :beer:
+Jonas (Strasbourg)
