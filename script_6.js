@@ -26,6 +26,6 @@ function protein(arn) {
   return adn.join('-');
 }
 
-console.log(protein("CCUCGCCGGUACUUCUCG"));
+console.log(protein("CCUCGCCGGUACUUCUCG")); // CCGUCGUUGCGCUACAGC
 
 

@@ -61,6 +61,6 @@ function compare(a,b) {
   return comparison;
 }
 
-let sorted = entrepreneurs.sort(compare)
+let sorted = entrepreneurs.sort(compare);
 console.log(sorted);
 
